@@ -40,6 +40,19 @@ h1 {
     width: 40%;
 }
 
+#home {
+    font-size: 35pt;
+    margin-top: 0;
+    float: right;
+    margin-right: 20px;
+    color: #efecff;
+    text-decoration: none;
+}
+
+#home:hover {
+    color: #0d0149;
+}
+
 main {
     padding: 10px;
     max-width: 1000px;
